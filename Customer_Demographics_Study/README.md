@@ -1,5 +1,8 @@
 # Customer Demographics Study 📊
 
+## Intern Information
+Intern ID: CITS2475
+
 ## Overview
 
 Customer Demographics Study is a Python-based data analysis project that helps analyze customer information such as age, gender, and city. The project provides insights into customer distribution and demographic patterns through statistical analysis and visualizations.
